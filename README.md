@@ -1,3 +1,10 @@
+# CSE311 Project 
+
+### Part - 1 - ER diagrams, Logical Diagram, Use Case Diagram
+### Part - 2 - Front-end Part - CSS, Js, Bootstrap
+### Part - 3 - PHP, SQL, DB Query, SQL Query must include:Join, Sub Query, Aggregate/Group by, Trigger
+
+
 # Cricket Club Management System
 The Cricket Club management system consists of various online booking and management functionaries needed by a cricket club. It provides various options like ground bookings, member registrations, notice posting, member registration, batch registration and more. The Cricket Club management system assures efficient management and maintains the functioning on a cricket club. 	The Cricket Club management system consists of various online booking and management functionaries needed by a cricket club. It provides various options like ground bookings, member registrations, notice posting, member registration, batch registration and more. The Cricket Club management system assures efficient management and maintains the functioning on a cricket club. 
 
@@ -17,3 +24,7 @@ Recent notices can be seen on the start page as they are posted by the admin.
 
 ### Admin Login: 
 Admin can approve and disapprove various ground booking requests, may check various members of the club and also people registered for various batches.
+
+
+### bupasha.khan@northsouth.edu
+### raiyan.rafsan@gmail.com
